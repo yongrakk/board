@@ -90,6 +90,9 @@
 │ ││      boardIndex.jsp                             #인덱스 화면
 
 
-![image](https://github.com/user-attachments/assets/7f949e74-e8e2-4954-9b3f-f0cb0d53124c)
+
+
+![image](https://github.com/user-attachments/assets/79fdc2e9-582c-4430-b093-fc94c39ae619)
+
 
 
