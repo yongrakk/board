@@ -49,8 +49,8 @@
 │├─java
 ││└─com
 ││  └─example
-││    └─hanteo
-││      │ HanteoApplication.java           #실행 어플리케이션
+││    └─board
+││      │ BoardApplication.java           #실행 어플리케이션
 ││      │      
 ││      ├─controller
 ││      │    BoardController.java          #게시판 컨트롤러(카테고리, 게시글리스트, 게시글상세)
