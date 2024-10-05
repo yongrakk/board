@@ -88,11 +88,6 @@
 │ │├─views
 │ ││      boardDetail.jsp                            #게시글 상세보기 화면
 │ ││      boardIndex.jsp                             #인덱스 화면
+```
 
-
-
-
-![image](https://github.com/user-attachments/assets/79fdc2e9-582c-4430-b093-fc94c39ae619)
-
-
-
+![image](https://github.com/user-attachments/assets/2b2030e6-955e-4d6a-a572-fe6c83605800)
